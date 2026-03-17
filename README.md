@@ -1,16 +1,25 @@
-## Hi there 👋
+# 0x01_Initiating_Identity... 🔐
 
-<!--
-**morphetico/morphetico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Analyst | Cloud Security | AI Researcher
 
-Here are some ideas to get you started:
+Olá! Sou um Analista de Segurança da Informação focado em infraestruturas Cloud resilientes e no uso de IA para defesa cibernética.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Arsenal Técnico (Stack)
+
+- **Cybersecurity:** `Nmap`, `Wireshark`, `Burp Suite`, `SOC Automation`
+- **Cloud Computing:** `AWS`, `Terraform (IaC)`, `Docker`, `Kubernetes`
+- **Artificial Intelligence:** `Python`, `LangChain`, `Prompt Engineering`
+
+---
+
+### 📊 Status do Terminal
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=morphetico&show_icons=true&theme=tokyonight&border_radius=10)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=morphetico&layout=compact&theme=tokyonight&border_radius=10)
+
+---
+
+### 🌐 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/ronniel-xavier/) | [Email](mailto:ronniexavier@gmail.com)****
