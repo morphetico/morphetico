@@ -2,7 +2,8 @@
 
 ## ⚡ Analyst | Cloud Security | AI Researcher
 
-Olá! Sou um Analista de Segurança da Informação focado em infraestruturas Cloud resilientes e no uso de IA para defesa cibernética.
+"$ whoami
+Analista de Segurança da Informação. Minha missão é garantir a integridade de ecossistemas Cloud e explorar o potencial da IA para antecipar ameaças de próxima geração."
 
 ---
 
@@ -22,4 +23,4 @@ Olá! Sou um Analista de Segurança da Informação focado em infraestruturas Cl
 ---
 
 ### 🌐 Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/ronniel-xavier/) | [Email](mailto:ronniexavier@gmail.com)****
+[LinkedIn](https://www.linkedin.com/in/ronniel-xavier/) | [Email](mailto:ronniexavier@gmail.com)
