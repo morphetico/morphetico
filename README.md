@@ -2,8 +2,8 @@
 
 ## ⚡ Analyst | Cloud Security | AI Researcher
 
-"$ whoami
-Analista de Segurança da Informação. Minha missão é garantir a integridade de ecossistemas Cloud e explorar o potencial da IA para antecipar ameaças de próxima geração."
+$ whoami
+Analista de Segurança da Informação. Minha missão é garantir a integridade de ecossistemas Cloud e explorar o potencial da IA para antecipar ameaças de próxima geração.
 
 ---
 
