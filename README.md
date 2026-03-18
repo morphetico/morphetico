@@ -52,11 +52,19 @@
 
 ### 0x05_Contact_Details 📡
 
-<p align="center">
-  <a href="[SEU_LINK_DO_LINKEDIN](https://linkedin.com/in/ronniel-xavier)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ronnielxavier@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://linkedin.com/in/ronniel-xavier" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ronniel Xavier" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="mailto:ronnielxavier@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ronniel Xavier" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
