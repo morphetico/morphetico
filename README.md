@@ -53,10 +53,10 @@
 ### 0x05_Contact_Details 📡
 
 <p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="[SEU_LINK_DO_LINKEDIN](https://linkedin.com/in/ronniel-xavier)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@EXEMPLO.COM">
+  <a href="mailto:ronnielxavier@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
