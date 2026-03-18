@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_otimizado.png" alt="Morphetico - Security | Cloud | AI" width="100%" />
+  <img src="banner_perfeito.png" alt="Morphetico - Security | Cloud | AI Banner" width="100%" />
 </p>
 
 # 0x01_Initiating_Identity... 🔐
