@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Morphetico - Security | Cloud | AI Banner" width="100%" />
+</p>
+
 # 0x01_Initiating_Identity... 🔐
 
 ## ⚡ Analyst | Cloud Security | AI Researcher
