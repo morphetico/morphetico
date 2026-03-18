@@ -7,11 +7,30 @@ Analista de Segurança da Informação. Minha missão é garantir a integridade 
 
 ---
 
-### 🛠️ Arsenal Técnico (Stack)
+### 0x02_Cyber_Arsenal 🛠️
 
-- **Cybersecurity:** `Nmap`, `Wireshark`, `Burp Suite`, `SOC Automation`
-- **Cloud Computing:** `AWS`, `Terraform (IaC)`, `Docker`, `Kubernetes`
-- **Artificial Intelligence:** `Python`, `LangChain`, `Prompt Engineering`
+#### 🔒 Information Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-EE2E2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
+#### ☁️ Cloud Computing & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
+</p>
+
+#### 🤖 Artificial Intelligence & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
